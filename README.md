@@ -107,7 +107,7 @@ Esto permitió descartar inicialmente un deterioro generalizado de la rentabilid
 
 ## Panorama Comercial
 
-![Panorama comercial 2024-2025](assets/Panorama_comercial.png)
+![Panorama comercial 2024-2025](assets/Panorama_comercial.webp)
 
 La primera página del dashboard fue diseñada para proporcionar una **lectura ejecutiva del negocio en pocos segundos**.
 
@@ -161,7 +161,7 @@ Debido a su participación, cualquier deterioro comercial en Perú tiene un impa
 
 ## Detalle Comercial
 
-![Detalle comercial](assets/Detalle_comercial.png)
+![Detalle comercial](assets/Detalle_comercial.webp)
 
 Después de identificar la caída en el Overview, la segunda página fue diseñada para responder:
 
