@@ -291,7 +291,7 @@ El dashboard permite pasar de observar una disminución general de ingresos a **
 * [`Proyecto_de_Desempeno_Comercial.ipynb`](./Proyecto_de_Desempeno_Comercial.ipynb) — documentación, planificación y narrativa SCQA.
 * [`Andes_Retail_Group_2024_2025.xlsx`](./datasets/Andes_Retail_Group_2024_2025.xlsx) — dataset utilizado.
 * [`Andes_Retail_Group_2024_2025_PDRP.pbix`](./Andes_Retail_Group_2024_2025_PDRP.pbix) — dashboard desarrollado en Power BI.
-* [`assets/Panorama_comercial.png`](./assets/Panorama_comercial.png) — vista ejecutiva.
-* [`assets/Detalle_comercial.png`](./assets/Detalle_comercial.png) — vista de análisis detallado.
+* [`assets/Panorama_comercial.png`](./assets/Panorama_comercial.webp) — vista ejecutiva.
+* [`assets/Detalle_comercial.png`](./assets/Detalle_comercial.webp) — vista de análisis detallado.
 
 [↑ Volver al inicio](#inicio)
